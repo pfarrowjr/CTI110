@@ -22,4 +22,4 @@
 12. place that piece on top of the bread with the ham
 
 ## Done when
-- the 2 pieces of bread has the ham btween them
+- the 2 pieces of bread has the ham between them
